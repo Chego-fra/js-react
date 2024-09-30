@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "0561",
+      "title": "Francis",
+      "author": "Francis Chege",
+      "body": "Computers are powerful electronic devices that have revolutionized nearly every aspect of modern life. They are capable of processing vast amounts of data at incredible speeds, enabling tasks that range from simple calculations to complex simulations and artificial intelligence. Computers consist of hardware components, such as the central processing unit (CPU), memory, and storage, as well as software, which includes operating systems and applications that allow users to interact with the machine. They are used in a wide variety of fields, including education, healthcare, finance, entertainment, and communication, making them indispensable tools in both professional and personal settings. As technology continues to advance, computers are becoming more efficient, compact, and integrated into everyday objects, further shaping the way we live and work."
+    },
+    {
+      "id": "9c51",
+      "title": "Francis",
+      "author": "Francis Chege",
+      "body": "Computers are powerful electronic devices that have revolutionized nearly every aspect of modern life. They are capable of processing vast amounts of data at incredible speeds, enabling tasks that range from simple calculations to complex simulations and artificial intelligence. Computers consist of hardware components, such as the central processing unit (CPU), memory, and storage, as well as software, which includes operating systems and applications that allow users to interact with the machine. They are used in a wide variety of fields, including education, healthcare, finance, entertainment, and communication, making them indispensable tools in both professional and personal settings. As technology continues to advance, computers are becoming more efficient, compact, and integrated into everyday objects, further shaping the way we live and work."
+    },
+    {
+      "id": "bfc3",
+      "title": "Hooks",
+      "author": "Francis Chege",
+      "body": "React Hooks are special functions in React that let you use state and other React features in functional components. Before Hooks, only class components could manage state and side effects, but Hooks allow you to do this inside function components. Here are the most common Hooks:"
+    }
+  ]
+}
